@@ -1,0 +1,1 @@
+public interface If<A extends T, B extends T> extends java.util.function.Function<A, B>, T { }
